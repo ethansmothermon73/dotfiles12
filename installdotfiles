@@ -158,7 +158,6 @@ ln -sf $path/config/kservicemenurc $HOME/.config/kservicemenurc
 ln -sf $path/config/ktrashrc $HOME/.config/ktrashrc
 ln -sf $path/config/mimeapps.list $HOME/.config/mimeapps.list
 ln -sf $path/config/pavucontrol.ini $HOME/.config/pavucontrol.ini
-ln -sf $path/config/starship.toml $HOME/.config/starship.toml
 ln -sf $path/config/user-dirs.dirs $HOME/.config/user-dirs.dirs
 ln -sf $path/config/wall.png $HOME/.config/wall.png
 
