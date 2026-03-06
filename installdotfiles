@@ -149,12 +149,6 @@ ln -sf $path/config/twmn $HOME/.config/twmn
 [ -d $HOME/.config/vifm ] && rm -rf $HOME/.config/vifm
 ln -sf $path/config/vifm $HOME/.config/vifm
 
-[ -d $HOME/.config/yay ] && rm -rf $HOME/.config/yay
-ln -sf $path/config/yay/ $HOME/.config/yay/
-
-[ -d $HOME/.config/zathura ] && rm -rf $HOME/.config/zathura
-ln -sf $path/config/zathura/ $HOME/.config/zathura/
-
 ln -sf $path/config/compton.conf $HOME/.config/compton.conf
 ln -sf $path/config/dolphinrc $HOME/.config/dolphinrc
 ln -sf $path/config/kdeglobals $HOME/.config/kdeglobals
